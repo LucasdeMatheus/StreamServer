@@ -128,6 +128,3 @@ sudo /usr/local/nginx/sbin/nginx -s stop
 - [nginx-rtmp-module GitHub](https://github.com/arut/nginx-rtmp-module)
 
 ---
-
-**Desenvolvido por:** Lucas Matheus  
-**Data:** Julho 2025
