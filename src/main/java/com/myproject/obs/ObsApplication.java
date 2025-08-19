@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ObsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ObsApplication.class, args);
+		SpringApplication.
+				run(ObsApplication.class, args);
 	}
 
 }
